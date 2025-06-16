@@ -1,19 +1,9 @@
-📊 Análise de Desempenho de Lojas – Projeto do Senhor João
+📊 Análise de Evasão de Clientes TelecomX
 🧭 Propósito da Análise
 
-Este projeto tem como objetivo identificar, com base em dados objetivos e relevantes, qual das quatro lojas sob a gestão do Senhor João deve ser vendida. Para isso, foram considerados os principais indicadores de desempenho, como:
+Declarar claramente o principal objetivo da sua análise. Por exemplo: "O objetivo desta análise é entender os fatores que contribuem para o cancelamento de clientes no conjunto de dados da TelecomX e propor estratégias para reduzi-lo."
 
-    Faturamento total por loja;
-
-    Categorias de produtos mais e menos vendidos;
-
-    Média das avaliações dos clientes;
-
-    Produtos com maior e menor saída;
-
-    Custo médio de frete por loja.
-
-A análise visa auxiliar na tomada de decisão estratégica, redirecionando recursos para as unidades com maior potencial de crescimento e retorno financeiro.
+Problema: Explicar brevemente a importância do cancelamento de clientes para as empresas. Mencionar como isso impacta a receita e o crescimento.
 
 🛠️ Tecnologias Utilizadas
 
